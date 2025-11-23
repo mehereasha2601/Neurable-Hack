@@ -1,0 +1,20 @@
+{
+  "stories": [
+    {
+      "title": "The Peaceful Garden",
+      "content": "Imagine yourself walking through a beautiful, peaceful garden. The sun is warm on your skin, and a gentle breeze rustles through the leaves. You can hear the soft sound of a nearby stream, and birds are singing in the distance. Take a deep breath and feel the calm wash over you.",
+      "duration": 3
+    },
+    {
+      "title": "Ocean Waves",
+      "content": "Picture yourself on a quiet beach at sunset. The waves gently lap against the shore in a rhythmic, soothing pattern. The sky is painted in shades of orange and pink. You feel completely at peace, with all your worries drifting away with each wave.",
+      "duration": 4
+    },
+    {
+      "title": "Mountain Serenity",
+      "content": "Visualize yourself at the top of a peaceful mountain. The air is crisp and clear. You can see for miles in every direction, with nothing but nature surrounding you. You feel a sense of freedom and tranquility, completely removed from the stresses of daily life.",
+      "duration": 5
+    }
+  ]
+}
+
